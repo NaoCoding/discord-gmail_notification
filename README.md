@@ -13,3 +13,8 @@ https://myaccount.google.com/apppasswords <br> <br>
 
 Python3 <br>
 24/7 device for running python script.
+
+### Notice
+
+All of your mails will be marked as read after you run the script.
+
