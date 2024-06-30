@@ -44,5 +44,5 @@ while 1:
         # to prevent too many requests for webhook
         
     mail.logout()
-    time.sleep(120)
+    time.sleep(15)
     # cooldown for search again
