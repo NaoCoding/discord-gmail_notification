@@ -40,13 +40,6 @@ while 1:
 
         result = requests.post(webhook_url, json=data)
 
-        try:
-            result.raise_for_status()
-        except requests.exceptions.HTTPError as err:
-            print(err)
-        else:
-            print("Payload delivered successfully, code {}.".format(result.status_code))
-
         time.sleep(2)
         # to prevent too many requests for webhook
         
