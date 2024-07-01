@@ -18,4 +18,5 @@ Python3 <br>
 ### Notice
 
 All of your mails will be marked as read after you run the script.
+You can easily just modify the code for multiple account/gmail.
 
