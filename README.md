@@ -1,5 +1,7 @@
 # Discord gmail notification webhook
 
+[GitHub Repo](https://github.com/NaoCoding/discord-gmail_notification)
+
 ### Feature
 
 Send webhook embed message while your email recieve new mail. <br>
